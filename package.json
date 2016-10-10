@@ -1,15 +1,15 @@
 {
-  "name": "phaser-multiplayer-game",
-  "version": "1.0.0",
+  "name": "cyberbolt-io",
+  "version": "0.6.9",
   "description": "Phaser example gone multiplayer!",
-  "main": "lib/game.js",
+  "main": "lib/server.js",
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
     "lint": "standard --verbose | snazzy"
   },
-  "author": "Francisco Dias",
-  "license": "MIT",
+  "author": "Alec van Dijken and Samuel Si",
+  "license": "N/A",
   "dependencies": {
     "ecstatic": "^1.0.1",
     "socket.io": "^1.4.5"
