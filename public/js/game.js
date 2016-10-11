@@ -449,12 +449,12 @@ function start(){
     game.load.spritesheet('sky', 'assets/backgroundCyberPunk.png',389,218);
     game.load.spritesheet('explode', 'assets/explode.png', 128,128);
     game.load.spritesheet('boolet', 'assets/boolet.png', 28, 14, 4);
-    game.load.spritesheet('buster', 'assets/busterBullet.png',28,14);
+    // game.load.spritesheet('buster', 'assets/busterBullet.png',28,14);
     game.load.audio('music','assets/race.mp3');
     game.load.audio('explosion', 'assets/explosion.mp3');
     game.load.audio('nuke','assets/tacticalNuke.mp3');
     game.load.audio('music2','assets/Derezzed.mp3');
-    game.load.image('reload','assets/reload.png');
+    // game.load.image('reload','assets/reload.png');
     
     game.load.start();
 

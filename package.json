@@ -1,7 +1,7 @@
 {
   "name": "cyberbolt-io",
   "version": "0.6.9",
-  "description": "Phaser example gone multiplayer!",
+  "description": "Crazy Bullet Hell Game!",
   "main": "lib/server.js",
   "scripts": {
     "start": "node .",
